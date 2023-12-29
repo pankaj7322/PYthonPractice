@@ -1,0 +1,1 @@
+# Practice question of python
